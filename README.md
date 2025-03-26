@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align = 'center'>
-  <a href="https://www.linkedin.com/in/maxim-shestakov-99bb1b108">
+  <a href="https://www.linkedin.com/in/mx-shestakov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/bodom91">
