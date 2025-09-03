@@ -1,5 +1,5 @@
 <h1 align = 'center'> Hello! I'm Maxim Shestakov 👋</h1>
-<h4 align = 'center'>Data Analytics (DS/ML) , Computer Science</h3> 
+<h4 align = 'center'>Data Analyst (DS/ML) , Computer Science</h3> 
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpuMmx4cGdmZWM4OHM5ODY1MDN4M3FvczU3OWx0MTJvejc2OHpmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
